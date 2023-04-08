@@ -1,4 +1,4 @@
-# cartravel
+# Car travelling
 Program about traveling by car
 
 This is a program that simulates the operation of a car. It contains a Car class with the fields brand, model, year, fuelCapacity, fuelConsumption, and fuelLevel, which represent the car brand, model, year, fuel tank capacity, average fuel consumption, and fuel level in the tank, respectively.
